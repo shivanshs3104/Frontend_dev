@@ -1,0 +1,42 @@
+{
+  "login": [
+    {
+      "id": "6504",
+      "username": "shivansh",
+      "email": "shivansh@gmail.com",
+      "password": "Shiv@123"
+    },
+    {
+      "id": "7b17",
+      "username": "admin",
+      "email": "admin@traffic.ai",
+      "password": "Sdfghj@1234"
+    },
+    {
+      "id": "c9c9",
+      "username": "raajveer123",
+      "email": "raajveer123@gmail.com",
+      "password": "Raj@1234"
+    }
+  ],
+  "signUp": [
+    {
+      "id": "7d3f",
+      "name": "Shivansh Singh",
+      "email": "shivanshs227@gmail.com",
+      "phone": "8957810382",
+      "gender": "male",
+      "country": "India",
+      "password": "Shiva@123"
+    },
+    {
+      "id": "1dab",
+      "name": "Raj",
+      "email": "raajveer123@gmail.com",
+      "phone": "7894561230",
+      "gender": "male",
+      "country": "India",
+      "password": "Raj@123"
+    }
+  ]
+}
